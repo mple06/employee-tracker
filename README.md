@@ -3,6 +3,7 @@
 ## Description
 
 Employee Tracker is a content management system aplication using command lines. The application has many used detailed below.
+
     - View all departments
         - view departments and their ID#
     - VIew all roles
@@ -12,7 +13,7 @@ Employee Tracker is a content management system aplication using command lines. 
     - Add a department
     - Add a role
     - Add an employee
-    = Update an employee
+    - Update an employee
         - update their role
 
 ---
