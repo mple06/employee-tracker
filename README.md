@@ -36,6 +36,10 @@ https://watch.screencastify.com/v/9ogPvPaoWkYAygdJEDhh
 
 ## Usage
 
+<img width="442" alt="Screen Shot 2021-10-26 at 11 47 41 PM" src="https://user-images.githubusercontent.com/90426657/139014381-5e4ff27f-98e2-4bfe-994e-6fa5a6a3d06f.png">
+<img width="440" alt="Screen Shot 2021-10-26 at 11 47 53 PM" src="https://user-images.githubusercontent.com/90426657/139014386-606a3369-4818-474d-b8a0-8376bf40332d.png">
+<img width="758" alt="Screen Shot 2021-10-26 at 11 48 13 PM" src="https://user-images.githubusercontent.com/90426657/139014388-65c7f8ed-f162-4999-94a3-b20181b40b31.png">
+
 ---
 
 ## Contribute
