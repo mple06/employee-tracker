@@ -32,7 +32,11 @@ Employee Tracker is a content management system aplication using command lines. 
 
 ## Installation
 
-## Link to deployed application:
+You will need the package.json and the required dependencies to use the application.
+
+---
+
+Here is a demo on how to use it.
 https://watch.screencastify.com/v/9ogPvPaoWkYAygdJEDhh
 
 ## Usage
@@ -57,7 +61,7 @@ NA
 
 ## Credits
 
-NA
+Credits to the Inquirer,  MySQL and console table.
 
 ---
 
